@@ -8,7 +8,9 @@ There will be two aspects to this repository:
 1. Code I developed for the project in 2024
 2. Code I added or refactored after 2024
 
-The code in `fall_2024_isotope_project.py` and `Foundation.ipynb` was the code I originally developed during my time in the lab, I will leave it untouched and to the side on it's own folder. 
+`fall_2024_isotope_project.py` and `Foundation.ipynb` contain the code I originally developed during my time in the lab. I am leaving it untouched in the `fall_2024` folder, along with the flow chart I made showing how that code worked. 
+
+Everything else is new work. The refactored code lives in `src/`
 
 The reason why I am adding new code is because the original code was made when I was new to coding, so some choices in how I organized it were not the best. The notebook in particular
 became laggy, with processes stacking on each other and time complexity growing accordingly.
