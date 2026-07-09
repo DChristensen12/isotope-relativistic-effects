@@ -1,0 +1,24 @@
+[package]
+name = "spectral-kernels"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "spectral_kernels"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+# "extension-module" defers Python symbol resolution to the embedding interpreter,
+# which breaks plain `cargo test`/`cargo run` binaries (they aren't embedded in
+# Python). Keeping it behind a feature that's on by default -- as PyO3's own docs
+# recommend -- lets `maturin develop`/`maturin build` work with zero flags while
+# `cargo test --no-default-features` still links and runs standalone.
+extension-module = ["pyo3/extension-module"]
+default = ["extension-module"]
+
+[dependencies]
+pyo3 = { version = "0.22" }
+numpy = "0.22"
+
+[profile.release]
+lto = true
