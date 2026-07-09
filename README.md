@@ -25,4 +25,9 @@ The mass spectra themselves are not included. They belong to the Heavy Elements 
 
 ## Theory
 
-(I'll add an explanation here later)
+I'll write the detailed overview of the theory later on. 
+
+The main molecules this part of the experiment were done with were 
+
+$[Nd(NO_{3})_{4}]^{-}$ and $[Dy(NO_{3})_{4}]^{-}$
+
