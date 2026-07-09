@@ -29,5 +29,14 @@ I'll write the detailed overview of the theory later on.
 
 The main molecules this part of the experiment were done with were 
 
-$[Nd(NO_{3})_{4}]^{-}$ and $[Dy(NO_{3})_{4}]^{-}$
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://latex.codecogs.com/png.image?\bg_black%20%5BNd%28NO_%7B3%7D%29_4%5D%5E%7B-%7D" />
+  <img src="https://latex.codecogs.com/png.image?\bg_white%20%5BNd%28NO_%7B3%7D%29_4%5D%5E%7B-%7D" alt="[Nd(NO3)4]-" />
+</picture>
+and
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://latex.codecogs.com/png.image?\bg_black%20%5BDy%28NO_%7B3%7D%29_4%5D%5E%7B-%7D" />
+  <img src="https://latex.codecogs.com/png.image?\bg_white%20%5BDy%28NO_%7B3%7D%29_4%5D%5E%7B-%7D" alt="[Dy(NO3)4]-" />
+</picture>
