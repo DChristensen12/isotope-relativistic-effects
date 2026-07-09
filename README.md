@@ -43,9 +43,10 @@ and
 
 ## Current Status/Plans
 
-Current Status: I am refactoring the code that doesn't need to be changed or can be easily changed (getting rid of nested for loops) in python. So I'm in the process of doing 2.) below. I've already been working on this for a while before publically showing the changes, so I'll be done with 2, moving onto 3 pretty quickly. 
+Current Status: I am refactoring the code that doesn't need to be changed or can be easily changed (getting rid of nested for loops) in python. So I'm in the process of doing 2.). I've already been working on this for a while before publically showing the changes, so I'm pretty much done with 2, already started on 3. Development from here on out might be slower. 
 
 Plans:
+
 1.) I want to hold off on writing the theory until I find my notes I took during this research, it'll make everything much more clear if I reference everything directly. So the theory to top off the repository itself will likely be added sometime Decemeber 2026).
 
 2.) I will first refactor all the code in basic ways (for loops become vectorized operations, etc) and keep all functionality exactly the same
